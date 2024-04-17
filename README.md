@@ -7,6 +7,7 @@ This repository contains the source code of the paper titled [DAC: Quantized Opt
 [![others](https://img.shields.io/badge/PyTorch-Stable%20(1.8.0)-orange)](https://pytorch.org/)
 
 ## Sample Generations with DAC
+\texttt{dac}
 
 ![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/poster.png)
 
