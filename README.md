@@ -8,8 +8,8 @@ This repository contains the source code of the paper titled [DAC: Quantized Opt
 
 ## Sample Generations with DAC
 \textt{dac}
-\texit{dac}
-\texbf{dac}
+\textit{dac}
+\textbf{dac}
 
 ![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/poster.png)
 
