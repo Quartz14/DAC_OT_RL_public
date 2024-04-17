@@ -11,10 +11,10 @@ This repository contains the source code of the paper titled [DAC: Quantized Opt
 \textit{dac}
 \textbf{dac}
 
-![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/poster.png)
+![img1](assets/poster.png)
 
 ## Intuition of approach
-![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/DAC_analysis1_f.pdf)
+![img2](assets/DAC_analysis1.png)
 
 
 
