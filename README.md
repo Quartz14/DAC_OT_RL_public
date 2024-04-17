@@ -16,7 +16,7 @@ This repository contains the source code of the paper titled [DAC: Quantized Opt
 
 
 ## Model Architecture
-![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/OT_RL_Architecture_f2.pdf)
+![img3](assets/OT_RL_Architecture.png)
 
 ## Getting Access to the Source Code
 
