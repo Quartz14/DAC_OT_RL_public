@@ -8,15 +8,15 @@ This repository contains the source code of the paper titled [DAC: Quantized Opt
 
 ## Sample Generations with DAC
 
-![](https://github.com/Quartz14/QAC_OT_RL_public/tree/main/assets/poster.png)
+![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/poster.png)
 
 ## Intuition of approach
-![](https://github.com/Quartz14/QAC_OT_RL_public/tree/main/assets/DAC_analysis1_f.pdf)
+![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/DAC_analysis1_f.pdf)
 
 
 
 ## Model Architecture
-![](https://github.com/Quartz14/QAC_OT_RL_public/tree/main/assets/OT_RL_Architecture_f2.pdf)
+![](https://github.com/Quartz14/DAC_OT_RL_public/tree/main/assets/OT_RL_Architecture_f2.pdf)
 
 ## Getting Access to the Source Code
 
