@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: DAC - Detoxifying Auto Complete suggestions
 date:   2024-04-17
 categories: NLP - Auto Completion for Web Queries
