@@ -22,4 +22,4 @@ This repository contains the source code of the paper titled [DAC: Quantized Opt
 
 ## Getting Access to the Source Code
 
-To get access to the source code, please send a request to <AcadGrants@service.microsoft.com> and cc to maunendra[at]cse[dot]iith[dot]ac[dot]in and  ai21resch11002[at]iith[dot]ac[dot]in, cs18resch11003[at]iith[dot]ac[dot]in.
+To get access to the source code, please send a request to <AcadGrants@service.microsoft.com> and cc to maunendra[at]cse[dot]iith[dot]ac[dot]in and  ai21resch11002[at]iith[dot]ac[dot]in.
